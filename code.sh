@@ -2,7 +2,7 @@
 
 CLIENT_ID='838987397758-g75nd4rj5jhdmp82ogih6b14k7ti7c90.apps.googleusercontent.com'
 CLIENT_SECRET='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'
-URI='https://learn.operatoroverload.com/~nsinluenam/oauth/'
+URI='https://learn.operatoroverload.com/~nsinluenam00/oauth/'
 echo "content-type: application/json"
 echo ""
 
